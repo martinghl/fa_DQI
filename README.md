@@ -1,5 +1,5 @@
 # Reliability and Validity Analysis of the Diet-Quality Index (DQI)  
-### New York University, 2025  
+### New York University, School of Global Public Health, 2025  
 
 ## Overview  
 
